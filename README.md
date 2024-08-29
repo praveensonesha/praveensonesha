@@ -43,12 +43,6 @@ Welcome to my GitHub profile! I'm **Praveen Sonesha**, a full stack web develope
 
 ---
 
-## 📊 Skills Visualization
-
-![Skills Chart](https://quickchart.io/chart?c=%7Btype:%27bar%27,data:%7Blabels:[%27C%27,%27C%2B%2B%27,%27Java%27,%27Python%27,%27JavaScript%27],datasets:[%7Blabel:%27Skill%20Level%27,data:[8,7,9,9,8],backgroundColor:%27rgba(79,195,247,0.6)%27,borderColor:%27rgba(79,195,247,1)%27,%7D]%7D,options:%7Belements:%7Bbar:%7BborderWidth:1%7D%7D%7D%7D)
-
----
-
 ## 🤝 Let's Collaborate!
 
 I'm excited to work on new projects and explore innovative ideas. If you’re interested in collaborating, please reach out!
